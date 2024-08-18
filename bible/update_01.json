@@ -1,11 +1,12 @@
 {
-	"version":1, 
-	"title":"2023년 03월 08일까지 누적된 오타 내역입니다. 업데이트 하시겠습니까?",
+	"version":2, 
+	"title":"2024년 08월 18일까지 누적된 오타 내역입니다. 업데이트 하시겠습니까?",
 	"contents":
 	[
 		{"bible_type":"kor_ch.db","book":19,"chapter":8,"verse":4,"content":"사람이 무엇이관대 주(主)께서 저를 생각하시며 인자(人子)가 무엇이관대 주(主)께서 저를 권고(眷顧)하시나이까"},
 		{"bible_type":"kor_ch.db","book":19,"chapter":128,"verse":6,"content":"네 자식(子息)의 자식(子息)을 볼지어다 이스라엘에게 평강(平康)이 있을지로다"},
 		{"bible_type":"niv_2011.db","book":8,"chapter":1,"verse":20,"content":"“Don’t call me Naomi,” she told them. “Call me Mara, because the Almighty has made my life very bitter."},
-		{"bible_type":"kor_ch.db","book":47,"chapter":5,"verse":2,"content":"과연(果然) 우리가 여기 있어 탄식(嘆息)하며 하늘로부터 오는 우리 처소(處所)로 덧입기를 간절(懇切)히 사모(思慕)하노니"}
+		{"bible_type":"kor_ch.db","book":47,"chapter":5,"verse":2,"content":"과연(果然) 우리가 여기 있어 탄식(嘆息)하며 하늘로부터 오는 우리 처소(處所)로 덧입기를 간절(懇切)히 사모(思慕)하노니"},
+		{"bible_type":"kor_ch.db","book":38,"chapter":14,"verse":10,"content":"온 땅이 아라바 같이 되되 게바에서 예루살렘 남편(南便) 림몬까지 미칠 것이며 예루살렘이 높이 들려 그 본처(本處)에 있으리니 베냐민 문(門)에서부터 첫문 자리와 성(城) 모퉁이 문(門)까지 또 하나넬 망대(望臺)에서부터 왕(王)의 포도주(葡萄酒) 짜는 곳까지라"}
 	]
 }
